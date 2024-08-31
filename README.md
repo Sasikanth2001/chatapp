@@ -15,6 +15,8 @@ JWT_SECREAT_KEY = <JWT Secreat Key>
 REACT_APP_CLOUDINARY_CLOUD_NAME = <Cloudinary cloud name>
 REACT_APP_BACKEND_URL = <Backend URL>
 
+# Deplay
+https://chat-app-amit.vercel.app/
 
 
 
